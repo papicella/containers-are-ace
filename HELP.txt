@@ -1,0 +1,15 @@
+Public container we trying to hack into running on Kubernetes:
+pasapples/apjctf-todo-java-app:latest
+
+Live running application on Kubernetes:
+http://34.142.227.233:80/
+
+Detecting application vulnerabilities in container images:
+https://docs.snyk.io/products/snyk-container/getting-around-the-snyk-container-ui/detecting-application-vulnerabilities-in-container-images
+
+Monitor container image:
+https://docs.snyk.io/products/snyk-container/snyk-cli-for-container-security
+
+BIGGEST hint of them all:
+https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHETOMCAT-451514
+
